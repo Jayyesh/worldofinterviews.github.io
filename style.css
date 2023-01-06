@@ -9,7 +9,7 @@ body::before {
  /* Modify the background color */
          
  .navbar {
-  background-color: rgb(8, 230, 238);
+  background-color: teal;
 }
 /* Modify brand and text color */
 
