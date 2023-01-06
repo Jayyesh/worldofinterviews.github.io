@@ -2,6 +2,25 @@ body::before {
   display: block;
   content: '';
   height: 60px;
+
+
+  
+}
+ /* Modify the background color */
+         
+ .navbar {
+  background-color: rgb(8, 230, 238);
+}
+/* Modify brand and text color */
+
+.navbar .navbar-brand,
+.navbar .navbar-text {
+  color: rgb(8, 10, 8);
+}
+
+.navbar .nav-item,
+.navbar .navbar-text {
+  color: green;
 }
 
 #map {
